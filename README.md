@@ -19,3 +19,12 @@ Interesting papers and blog posts, roughly organized by topic
 ## ML
 
 * [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
+
+## Security
+
+### AWS resources
+* [BYOK](https://aws.amazon.com/blogs/security/demystifying-kms-keys-operations-bring-your-own-key-byok-custom-key-store-and-ciphertext-portability/)
+* [Key management best practices whitepaper](https://d0.awsstatic.com/whitepapers/aws-kms-best-practices.pdf)
+* [KMS crypto details paper](https://docs.aws.amazon.com/kms/latest/cryptographic-details/kms-crypto-details.pd)
+* [Section: customer keys and AWS keys](https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html#key-mgmt)
+* [Keys and external AWS accounts](https://docs.aws.amazon.com/kms/latest/developerguide/key-policy-modifying-external-accounts.html)

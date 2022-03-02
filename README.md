@@ -28,3 +28,5 @@ Interesting papers and blog posts, roughly organized by topic
 * [KMS crypto details paper](https://docs.aws.amazon.com/kms/latest/cryptographic-details/kms-crypto-details.pd)
 * [Section: customer keys and AWS keys](https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html#key-mgmt)
 * [Keys and external AWS accounts](https://docs.aws.amazon.com/kms/latest/developerguide/key-policy-modifying-external-accounts.html)
+* [KMS workshop](https://github.com/aws-samples/aws-kms-workshop)
+* [KMS Crypto Details](https://docs.aws.amazon.com/kms/latest/cryptographic-details/kms-crypto-details.pdf)

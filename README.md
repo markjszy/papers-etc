@@ -30,3 +30,8 @@ Interesting papers and blog posts, roughly organized by topic
 * [Keys and external AWS accounts](https://docs.aws.amazon.com/kms/latest/developerguide/key-policy-modifying-external-accounts.html)
 * [KMS workshop](https://github.com/aws-samples/aws-kms-workshop)
 * [KMS Crypto Details](https://docs.aws.amazon.com/kms/latest/cryptographic-details/kms-crypto-details.pdf)
+
+## Investing, finance
+* [CIPM Study Sessions](https://www.cfainstitute.org/-/media/documents/study-session/2021-cipm-l1-study-sessions.pdf)
+    * [Return attribution](https://www.cfainstitute.org/-/media/documents/support/programs/cipm/2019-cipm-l1v1r5.ashx)
+* []

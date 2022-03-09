@@ -33,5 +33,4 @@ Interesting papers and blog posts, roughly organized by topic
 
 ## Investing, finance
 * [CIPM Study Sessions](https://www.cfainstitute.org/-/media/documents/study-session/2021-cipm-l1-study-sessions.pdf)
-    * [Return attribution](https://www.cfainstitute.org/-/media/documents/support/programs/cipm/2019-cipm-l1v1r5.ashx)
-* []
+    * [Returns attribution](https://www.cfainstitute.org/-/media/documents/support/programs/cipm/2019-cipm-l1v1r5.ashx)
